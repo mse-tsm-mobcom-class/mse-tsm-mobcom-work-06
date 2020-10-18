@@ -29,11 +29,15 @@ For slides and example code, see [lesson 6](../../../mse-tsm-mobcom/blob/master/
 
 <sup>*</sup>Why do some bytes not show up?
 
-### d) TODO, 10'
-* X
+### d) UART BLE central, 10'
+* Build and run the previous nRF52840 BLE example.
+* Use the .ino link on the page to get the example code.
+* Open the Arduino serial monitor to enter a message.
+* Use a second nRF52840 as a UART peripheral.
 
-### e) TODO, 10'
-* X
-
-### f) TODO, 10'
-* X
+### e) Scanner BLE central, 10'
+* Build and run the previous nRF52840 BLE examples.
+* Use the .ino link on the page to get the example code.
+* Test the scanner with a (simulated) HRM peripheral.
+* Adapt the scanner to scan for the beacon observable.
+* Bonus: Scan for Covid-19 apps as described [here](https://steigerlegal.ch/2020/07/06/swisscovid-app-bluetooth/).
