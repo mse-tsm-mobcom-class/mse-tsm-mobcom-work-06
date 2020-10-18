@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 6](../../../mse-tsm-mobcom/blob/master/06/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/sK9OuMqt).*
 
 ### a) HRM BLE peripheral, 10'
 * Build and run the previous nRF52840 BLE example.
