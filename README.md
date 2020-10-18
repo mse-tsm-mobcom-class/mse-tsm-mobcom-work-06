@@ -11,7 +11,7 @@ For slides and example code, see [lesson 6](../../../mse-tsm-mobcom/blob/master/
 * Explore the HRM example using a smartphone app<sup>*</sup>.
 * Try to enable notifications to get value updates.
 
-<sup>*</sup>Try [nRF Connect for Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp) or [iOS](https://apps.apple.com/us/app/nrf-connect/id1054362403). 8
+<sup>*</sup>Try [nRF Connect for Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp) or [iOS](https://apps.apple.com/us/app/nrf-connect/id1054362403).
 
 ### b) HRM BLE central, 10'
 * Build and run the previous nRF52840 BLE example.
@@ -21,5 +21,19 @@ For slides and example code, see [lesson 6](../../../mse-tsm-mobcom/blob/master/
 
 <sup>*</sup>Or your smartphone as a [peripheral simulator](https://play.google.com/store/search?q=BLE%20peripheral%20simulator&c=apps&hl=en_US&gl=US).
 
-### c) TODO, 10'
-* TODO.
+### c) UART BLE peripheral, 10'
+* Build and run the previous nRF52840 BLE example.
+* Use the .ino link on the page to get the example code.
+* Write bytes to RX with a generic BLE explorer app.
+* Check the serial monitor to see the received bytes<sup>*</sup>.
+
+<sup>*</sup>Why do some bytes not show up?
+
+### d) TODO, 10'
+* X
+
+### e) TODO, 10'
+* X
+
+### f) TODO, 10'
+* X
